@@ -1,0 +1,16 @@
+EXPORTS
+    base64_decode = base64_decode@8 @1
+    base64_encode = base64_encode@12 @2
+    fd_state = fd_state@4 @3
+    gbk_to_uni = gbk_to_uni@16 @4
+    gbk_to_utf8 = gbk_to_utf8@12 @5
+    get_error = get_error@0 @6
+    init_net = init_net@0 @7
+    tcp_close = tcp_close@0 @8
+    tcp_conn = tcp_conn@8 @9
+    tcp_recv = tcp_recv@8 @10
+    tcp_send = tcp_send@8 @11
+    uni_to_gbk = uni_to_gbk@8 @12
+    uni_to_utf8 = uni_to_utf8@12 @13
+    utf8_to_gbk = utf8_to_gbk@8 @14
+    utf8_to_uni = utf8_to_uni@16 @15

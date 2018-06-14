@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1528096883 source:c:\users\b\desktop\test\md5.c
+	"md5.h"
+	<string.h>
+	<stdio.h>
+
+1528095398 c:\users\b\desktop\test\md5.h
+
+1528193624 source:c:\users\b\desktop\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"unicode.h"
+
+1528089431 source:c:\users\b\desktop\test\utf8gbk.c
+	<stdio.h>
+	<windows.h>
+
+1528084385 c:\users\b\desktop\test\utf8gbk.h
+
+1528193601 source:c:\users\b\desktop\test\unicode.c
+	<windows.h>
+
+1528189336 c:\users\b\desktop\test\unicode.h
+
+1528868959 source:d:\code\c\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1528337592 d:\code\c\assistent\unicode.h
+
+1528796192 source:d:\code\c\test\base64.c
+	"base64.h"
+	<string.h>
+	<stdio.h>
+
+1528787885 d:\code\c\test\base64.h
+
